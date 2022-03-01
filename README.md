@@ -32,7 +32,6 @@ Flags:
       --tags               Build tags for go build and go test commands
 
 ```
-
 You can pass regular go flags in bash after `--`, for example:
 
 ```
